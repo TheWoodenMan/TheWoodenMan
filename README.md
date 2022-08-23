@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Javascript, Node.js, React**
 
-- 👯 I’m looking to collaborate on **Open Source, ADHD/Autism or TTRPG Projects**
+- 👯 I’m looking to collaborate on **Open Source, ADHD/Autism, sustainability or TTRPG Projects**
 
 - 🤝 I’m looking for help with [Networking! :)](https://twitter.com/Andynwood79)
 
