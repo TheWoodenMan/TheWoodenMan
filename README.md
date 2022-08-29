@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/andynwood79" target="blank"><img src="https://img.shields.io/twitter/follow/andynwood79?logo=twitter&style=for-the-badge" alt="andynwood79" /></a> </p>
 
-- 🔭 I’m currently working on **MongoDB & express!**
+- 🔭 I’m currently working on **express, MongoDB & mongoose!**
 
 - 🌱 I’m currently learning **Javascript, Node.js, React**
 
