@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/andynwood79" target="blank"><img src="https://img.shields.io/twitter/follow/andynwood79?logo=twitter&style=for-the-badge" alt="andynwood79" /></a> </p>
 
-- 🔭 I’m currently working on ** [CPDeasy](https://github.com/TheWoodenMan/twm-cpd-log) - a full stack web app for professional leaders journalling their learning. **
+- 🔭 I’m currently working on ** [CPDeasy](https://github.com/TheWoodenMan/twm-cpd-log) - a full stack web app to help professional leaders with reflection and journalling their learning. **
 
 - 🌱 I’m currently learning **Javascript, Node.js, React**
 
