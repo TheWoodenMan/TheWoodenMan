@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/andynwood/](https://www.linkedin.com/in/andynwood/)
 
-- ⚡ Fun fact **I am a Pathfinder 2e Games Master and Have a black belt in Shotokan Karate!**
+- ⚡ Fun fact **I am a Pathfinder 2e Games Master and Have a black belt in Shotokan Karate! :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
