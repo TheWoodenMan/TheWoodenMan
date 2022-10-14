@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on ** [CPDeasy](https://github.com/TheWoodenMan/twm-cpd-log) - a full stack web app designed to help professional leaders with leadership values, reflection and documentation of their learning journey. **
 
-- 🌱 I’m currently learning **Azure, Javascript, Node.js, React, TDD**
+- 🌱 I’m currently learning **Azure Fundamentals, TypeScript, React and TDD**
 
-- 👯 I’m looking to collaborate on **Open Source, ADHD/Autism, sustainability or TTRPG Projects**
+- 👯 I’m looking to collaborate on **Open Source, ADHD/Autism, sustainability, social impact or TTRPG Projects**
 
 - 🤝 I’m looking for help with [Networking! :)](https://twitter.com/Andynwood79)
 
