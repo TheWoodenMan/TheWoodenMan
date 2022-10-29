@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Azure Fundamentals, TypeScript, React and TDD**
 
-- 👯 I’m looking to collaborate on **Open Source, ADHD/Autism, sustainability, social impact or TTRPG Projects**
+- 👯 I’m looking to collaborate on **Open Source, tech for good, neurodivergence, sustainability, social impact or TTRPG Projects**
 
 - 🤝 I’m looking for help with [Networking! :)](https://twitter.com/Andynwood79)
 
