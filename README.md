@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
-<h3 align="center">An Ops Lead and Project Manager working on Software Engineering.</h3>
+<h3 align="center">A full stack software engineer with a background in leadership and management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thewoodenman&label=Profile%20views&color=0e75b6&style=flat" alt="thewoodenman" /> </p>
 
