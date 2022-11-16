@@ -26,7 +26,7 @@
 - ⚡ Fun facts:
 - ⚡ **I am a Pathfinder 2e Games Master.**
 - ⚡ **I Have a black belt in Shotokan Karate.**
-- ⚡ **I'm in the [top 10%](https://www.google.co.uk/maps/contrib/103419621330145247926/contribute/data=!3m1!4b1!4m3!8m2!3m1!1e1) of Google Maps Reviewers for Restaurants **
+- ⚡ **I'm in the [top 10%](https://www.google.co.uk/maps/contrib/103419621330145247926/contribute/data=!3m1!4b1!4m3!8m2!3m1!1e1) of Google Maps Reviewers for Restaurants**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
