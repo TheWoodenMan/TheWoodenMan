@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on ** [CPDeasy](https://github.com/TheWoodenMan/twm-cpd-log) - a full stack web app designed to help professional leaders with leadership values, reflection and documentation of their learning journey. **
 
-- 🌱 I’m currently learning **Azure Fundamentals, TypeScript, React and TDD**
+- 🌱 I’m currently learning **TypeScript, React, Shopify Storefront and TDD**
 
 - 👯 I’m looking to collaborate on **Open Source, tech for good, neurodivergence, sustainability, social impact or TTRPG Projects**
 
