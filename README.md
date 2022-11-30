@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React, Shopify Storefront and TDD**
 
-- 👯 I’m looking to collaborate on **Open Source, business support applications, tech for good projects, neurodivergence support, pro-sustainability, social impact or TTRPG Projects**
+- 👯 I’m looking to collaborate on **Open Source, business support, tech for good, neurodivergence, sustainability, social impact or TTRPG Projects**
 
 - 🤝 I’m looking for help with [Networking! :)](https://twitter.com/Andynwood79)
 
