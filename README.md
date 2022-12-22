@@ -11,7 +11,7 @@
 
 - 🧱 My last project was ** [CPDeasy](https://github.com/TheWoodenMan/twm-cpd-log) - a full stack web app designed to help professional leaders with leadership values, reflection and documentation of their learning journey. **
 
-- 🌱 I’m currently learning **TypeScript, React, Shopify Storefront and TDD**
+- 🌱 I’m currently learning **TypeScript, React and AWS Cloud Computing**
 
 - 👯 I’m looking to collaborate on **Open Source, business support, tech for good, neurodivergence, sustainability, social impact or TTRPG Projects**
 
