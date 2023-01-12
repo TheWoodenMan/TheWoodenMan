@@ -26,7 +26,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/andynwood/](https://www.linkedin.com/in/andynwood/)
 
 - ⚡ Fun facts:
--  **I Have a black belt in Shotokan Karate.martial_arts_uniform**
+-  **I Have a black belt in Shotokan 🥋**
 -  **I am a Pathfinder 2e Games Master.🎲**
 
 ### Blogs posts
