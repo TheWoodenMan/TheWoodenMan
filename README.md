@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thewoodenman" alt="thewoodenman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/andynwood79" target="blank"><img src="/twitter/follow/andynwood79?label=Follow" alt="andynwood79" /></a> </p>
+<p align="left"> <a href="https://twitter.com/andynwood79" target="blank"><img src="[/twitter/follow/andynwood79?label=Follow](https://img.shields.io/twitter/follow/andynwood79?logo=twitter&style=for-the-badge)" alt="andynwood79" /></a> </p>
 
 - 🔭 I’m currently working on [Behavioral Recruitment API](https://github.com/TheWoodenMan/behavioural-recruitment)
 
