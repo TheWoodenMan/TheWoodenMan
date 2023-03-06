@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Networking](https://twitter.com/Andynwood79)
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheWoodenMan/TheWoodenMan/blob/main/www.andynwood.com](https://github.com/TheWoodenMan/TheWoodenMan/blob/main/www.andynwood.com)
+- 👨‍💻 All of my projects are available at [https://github.com/TheWoodenMan/TheWoodenMan/blob/main/www.andynwood.com](https://www.andynwood.com)
 
 - 📝 I regularly write articles on [https://blog.andynwood.com/](https://blog.andynwood.com/)
 
