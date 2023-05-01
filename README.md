@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/andynwood79" target="blank"><img src="https://img.shields.io/badge/follow-%40andynwood79-1DA1F2?logo=twitter&style={style}" alt="andynwood79" /></a> </p>
 
-- 🔭 I’m currently working on [Behavioral Recruitment API](https://github.com/TheWoodenMan/behavioural-recruitment)
+- 🔭 I’m currently working on [Behavioral Recruitment API](https://github.com/TheWoodenMan/behavioural-recruitment) and [React Recruitment Prep](https://github.com/TheWoodenMan/comp-recruit-prep-react)
 
 - 🌱 I’m currently learning **TypeScript, React and AWS Cloud Computing**
 
