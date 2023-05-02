@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **TypeScript, React and AWS Cloud Computing**
 
-- 👯 I’m looking to collaborate on **Open Source, Business Support Apps, Tech For Good or Sustainability Projects**
+- 👯 I’m looking to collaborate on **Open Source, Business Support Apps, Tech For Good, Climate or Sustainability Projects**
 
 - 🤝 I’m looking for help with [Networking](https://twitter.com/Andynwood79)
 
