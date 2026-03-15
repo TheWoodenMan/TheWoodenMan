@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andy</h1>
 <h3 align="center">A senior leader with intermediate, full-stack software engineer experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thewoodenman&label=Profile%20views&color=0e75b6&style=flat" alt="thewoodenman" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thewoodenman&label=Profile%20views&color=0e75b6&style=flat" alt="thewoodenman" /> </p>
 
 <p align="center" > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.licdn.com/dms/image/v2/C4E03AQFDSP6xCJ8Vig/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1655763366317?e=1775088000&v=beta&t=7-H7t4bipFhJrTJX3TbQpjriDi5fjdnhmqWx_WAuE1Y" alt="thewoodenman" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/andynwood79" target="blank"><img src="https://img.shields.io/badge/follow-%40andynwood79-1DA1F2?logo=twitter&style={style}" alt="andynwood79" /></a> </p>
+<p align="center"> <a href="https://twitter.com/andynwood79" target="blank"><img src="https://img.shields.io/badge/follow-%40andynwood79-1DA1F2?logo=twitter&style={style}" alt="andynwood79" /></a> </p>
 
 - 🔭 I’m currently working on [Behavioral Recruitment API](https://github.com/TheWoodenMan/behavioural-recruitment) and [React Recruitment Prep](https://github.com/TheWoodenMan/comp-recruit-prep-react)
 
