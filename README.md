@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with [Networking](https://twitter.com/Andynwood79)
 
-- 👨‍💻 All of my projects are available on ([My Portfolio Site](https://andynwood.netlify.app/))
+- 👨‍💻 All of my projects are available on [My Portfolio Site](https://andynwood.netlify.app/)
 
 - 📝 I regularly write articles on [My Blog](https://blog.andynwood.com/)
 
